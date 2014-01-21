@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-trello",
+  "version": "0.0.1",
+  "description": "Little node.js passerelle script for link jenkins & trello (put a board background in color)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fabien0102/jenkins-trello.git"
+  },
+  "keywords": [
+    "jenkins",
+    "trello"
+  ],
+  "author": "fabien0102",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabien0102/jenkins-trello/issues"
+  },
+  "dependencies": {
+    "node-trello": "~0.1.4"
+  }
+}
