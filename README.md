@@ -41,7 +41,7 @@ Shell script
 ## Your job
 After your job (with all my tests for example), you just need to set a `Trigger parameterized build on other projects` with following parameters:
 
-![](img/jenkins-trigger.PNG)
+![](img/jenkins-trigger.png)
 
 You can also set a trigger for `failed` event ;)
 
